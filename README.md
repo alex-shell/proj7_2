@@ -1,2 +1,2 @@
-# proj7_2
+# project-7
 Created with CodeSandbox
